@@ -1,4 +1,4 @@
 # Nevado de Toluca
 Höhenmodell von Nevado de Toluca
-## ArcGIS Pro
+## Übung 1
 Erstellt mit ArcGIS Pro
